@@ -1,0 +1,1 @@
+If using the images from the repo, make sure to note that the relative file paths used in the jupyter notebook are maintained (i.e. the notebook defaults to referencing images like 'data/image.jpg', etc.)
